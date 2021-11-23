@@ -1,10 +1,10 @@
 const container = document.querySelector(".contenedor");
 
 const words = [
-  "I am Dystopia",
-  "I am Front - End Developer",
-  "And I am UNRECOVERY",
-  "Wishful Thinking",
+  "Bienvenido a Este Sitio de Prueba",
+  "Este es un texto de prueba",
+  "Welcome to this Web Site",
+  "This is a Text Test"
 ];
 
 let index = 0;
